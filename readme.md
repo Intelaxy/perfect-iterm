@@ -1,6 +1,6 @@
- <img src='iterm.png' alt='iterm color scheme, iterm profile' />
+ # iTerm2 Profile & Color Scheme
 
- Perfect iTerm2 setup. Profile & color scheme,
+ <img src='iterm.png' alt='iterm color scheme, iterm profile' />
 
  ZSH setup by <a href='https://github.com/unixorn/zsh-quickstart-kit'>ZSH Quickstart Kit</a>
 
